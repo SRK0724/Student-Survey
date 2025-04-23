@@ -69,5 +69,5 @@ Understanding how students react to educational content is key to improving lear
 
 ## 📖 Author
 **Sivaramakrishna Bandla**  
-[LinkedIn](https://www.linkedin.com/in/sivaramakrishnabandla/) | Email: sivaramakrishnabandla970@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sivaramakrishnacareergpt) | Email: sivaramakrishnabandla970@gmail.com
 
