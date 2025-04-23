@@ -32,17 +32,6 @@ Understanding how students react to educational content is key to improving lear
 
 ---
 
-## 📂 Sample Dataset Snapshot
-| S.No | Reaction Type | Sentiment | Score | Date       | Month | Content Type | Category |
-|------|----------------|-----------|--------|------------|--------|----------------|-----------|
-| 1    | disgust        | negative  | 0%     | 07-11-2020 | Nov    | photo          | Studying  |
-| 2    | dislike        | negative  | 10%    | 17-06-2021 | Jun    | photo          | Studying  |
-| 3    | scared         | negative  | 15%    | 18-04-2021 | Apr    | photo          | Studying  |
-| 7    | cherish        | positive  | 70%    | 11-04-2021 | Apr    | photo          | Studying  |
-| 9    | peeking        | neutral   | 35%    | 01-04-2021 | Apr    | photo          | Studying  |
-
----
-
 ## 🚀 Key Insights
 - 🌟 **Highest Score Reaction**: *Cherish* with 70%
 - 📅 **Most Active Months**: April & November
